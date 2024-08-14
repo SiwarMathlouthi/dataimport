@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Success",
+        "value": "7"
+    },
+    {
+        "name": "Start time",
+        "value": "9:00:01 PM"
+    },
+    {
+        "name": "Processed",
+        "value": "2.2 TB"
+    },
+    {
+        "name": "Warning",
+        "value": "0"
+    },
+    {
+        "name": "End time",
+        "value": "9:09:45 PM"
+    },
+    {
+        "name": "Data read",
+        "value": "45.8 GB"
+    },
+    {
+        "name": "Error",
+        "value": "0"
+    },
+    {
+        "name": "Duration",
+        "value": "00:09:44"
+    },
+    {
+        "name": "Transferred",
+        "value": "13.8 GB"
+    },
+    {
+        "name": "Success",
+        "value": "10"
+    },
+    {
+        "name": "Start time",
+        "value": "10:00:01 PM"
+    },
+    {
+        "name": "Processed",
+        "value": "13.4 TB"
+    },
+    {
+        "name": "Warning",
+        "value": "0"
+    },
+    {
+        "name": "End time",
+        "value": "11:26:29 PM"
+    },
+    {
+        "name": "Data read",
+        "value": "2.7 TB"
+    },
+    {
+        "name": "Error",
+        "value": "0"
+    },
+    {
+        "name": "Duration",
+        "value": "01:26:28"
+    },
+    {
+        "name": "Transferred",
+        "value": "102.4 GB"
+    },
+    {
+        "name": "Success",
+        "value": "3"
+    },
+    {
+        "name": "Start time",
+        "value": "10:00:01 PM"
+    },
+    {
+        "name": "Processed",
+        "value": "36.4 TB"
+    },
+    {
+        "name": "Warning",
+        "value": "0"
+    },
+    {
+        "name": "End time",
+        "value": "10:25:05 PM"
+    },
+    {
+        "name": "Data read",
+        "value": "10.1 GB"
+    },
+    {
+        "name": "Error",
+        "value": "0"
+    },
+    {
+        "name": "Duration",
+        "value": "00:25:04"
+    },
+    {
+        "name": "Transferred",
+        "value": "3.2 GB"
+    },
+    {
+        "name": "Success",
+        "value": "1"
+    },
+    {
+        "name": "Start time",
+        "value": "19:30:00"
+    },
+    {
+        "name": "Total size",
+        "value": "25,2 TB"
+    },
+    {
+        "name": "Backup size",
+        "value": "396,7 MB"
+    },
+    {
+        "name": "Warning",
+        "value": "0"
+    },
+    {
+        "name": "End time",
+        "value": "19:50:30"
+    },
+    {
+        "name": "Data read",
+        "value": "8,7 GB"
+    },
+    {
+        "name": "Dedupe",
+        "value": "1,0x"
+    },
+    {
+        "name": "Error",
+        "value": "0"
+    },
+    {
+        "name": "Duration",
+        "value": "0:20:29"
+    },
+    {
+        "name": "Transferred",
+        "value": "305,6 MB"
+    },
+    {
+        "name": "Compression",
+        "value": "1,6x"
+    }
+]

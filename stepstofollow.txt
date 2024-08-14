@@ -1,0 +1,18 @@
+1- .venv\Scripts\activate #activate the venv
+2- python app.py # start the data gathering proccess = download email content 
+3- check if the token is working porperly 
+todo list : 
+1- research for beautifulsoup4
+2- research for html selector  (css-selector , js-selector , xpath-selector , tag/depth-selector )
+3- create a script python to exctract data from the train.html and export it into json file  named train.json
+[{ "header-name" : 'header1' , 'data' : [data1, data2, data3] } , ...] : 
+a- use open function the html file with beautifulsoup4 
+b- use selector to extract data 
+c- parcour the data extracted and change there into dict 
+d- change the dict in json using json library (import json)
+e- use open function to create new json file and write the json into it 
+---------------------------------------
+install : 
+nodejs npm
+posgressql 
+django / django-admin 

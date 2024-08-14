@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Success",
+        "value": "1"
+    },
+    {
+        "name": "Start time",
+        "value": "19:30:00"
+    },
+    {
+        "name": "Total size",
+        "value": "25,2 TB"
+    },
+    {
+        "name": "Backup size",
+        "value": "396,7 MB"
+    },
+    {
+        "name": "Warning",
+        "value": "0"
+    },
+    {
+        "name": "End time",
+        "value": "19:50:30"
+    },
+    {
+        "name": "Data read",
+        "value": "8,7 GB"
+    },
+    {
+        "name": "Dedupe",
+        "value": "1,0x"
+    },
+    {
+        "name": "Error",
+        "value": "0"
+    },
+    {
+        "name": "Duration",
+        "value": "0:20:29"
+    },
+    {
+        "name": "Transferred",
+        "value": "305,6 MB"
+    },
+    {
+        "name": "Compression",
+        "value": "1,6x"
+    }
+]

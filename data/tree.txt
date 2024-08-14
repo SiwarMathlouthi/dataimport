@@ -1,0 +1,17 @@
+Structure du dossier
+Le numéro de série du volume est DE72-7CE2
+C:.
+¦   tree.txt
+¦   
++---Tr____Success__BK_AZUR_HYDC_BMS_DIV__7_objects_
+¦       index.html
+¦       
++---Tr____Success__BK_GED_HCL_SERVERS__10_objects_
+¦       index.html
+¦       
++---Tr____Success__BK_HEAVY__3_objects_
+¦       index.html
+¦       
++---Tr____Success__STORAGE_TECH___BKR_DR___Wednesday__29_May_2024_19_50_30
+        index.html
+        

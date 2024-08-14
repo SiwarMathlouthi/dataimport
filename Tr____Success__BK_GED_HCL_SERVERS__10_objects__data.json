@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Success",
+        "value": "10"
+    },
+    {
+        "name": "Start time",
+        "value": "10:00:01 PM"
+    },
+    {
+        "name": "Processed",
+        "value": "13.4 TB"
+    },
+    {
+        "name": "Warning",
+        "value": "0"
+    },
+    {
+        "name": "End time",
+        "value": "11:26:29 PM"
+    },
+    {
+        "name": "Data read",
+        "value": "2.7 TB"
+    },
+    {
+        "name": "Error",
+        "value": "0"
+    },
+    {
+        "name": "Duration",
+        "value": "01:26:28"
+    },
+    {
+        "name": "Transferred",
+        "value": "102.4 GB"
+    }
+]
